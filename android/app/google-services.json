@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110579101674",
+    "firebase_url": "https://telegram-app-ce630-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "telegram-app-ce630",
+    "storage_bucket": "telegram-app-ce630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110579101674:android:73f1b96a1601c13ebf0c93",
+        "android_client_info": {
+          "package_name": "it.fudeo.telegram_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110579101674-iefeo99g97684mtmig86b184lrot6rur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.fudeo.telegram_app",
+            "certificate_hash": "857d88ac78b5cf9674eff33493709a15bb41ad72"
+          }
+        },
+        {
+          "client_id": "110579101674-r2398irkmotnojqlbnc628rk4q7qkaq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkp3sbNS0SkHl9akeq-oh2bUAVvjlwaMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110579101674-r2398irkmotnojqlbnc628rk4q7qkaq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
